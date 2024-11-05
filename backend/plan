@@ -1,0 +1,11 @@
+users have accounts tied to license plate numbers
+post history associated with accounts (photos taken by the user and photos of the user)
+sign in with google, filter by domain ("athenian.org")
+users have usernames
+posts are attached to your username and username (if acc is created) or license plate number (if acc is not created
+) of person who's photo you've taken.
+posts have a date created field
+posts have a integer rating field
+posts have an id field
+posts have an image field
+posts have an integer likes field
